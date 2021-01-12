@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UAS_DPM_TI5A_Rebahan.Aj</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="ebahan_aj">ebahan.Aj</string>
+    <string name="login">LOGIN</string>
+    <string name="r">R</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="daftar_akun"><u>Daftar Akun</u></string>
+</resources>
