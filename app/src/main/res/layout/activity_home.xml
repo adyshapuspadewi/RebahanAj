@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/ic_bg1" >
+    android:background="@drawable/ic_bg1"
+    tools:context=".HomeActivity">
 
     <View
         android:id="@+id/view"
@@ -31,7 +32,7 @@
         android:id="@+id/view3"
         android:layout_width="wrap_content"
         android:layout_height="130dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="10dp"
         android:background="@drawable/bgwpink"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -42,7 +43,7 @@
         android:id="@+id/view4"
         android:layout_width="wrap_content"
         android:layout_height="130dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="10dp"
         android:background="@drawable/bgwpink"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -53,7 +54,7 @@
         android:id="@+id/view5"
         android:layout_width="wrap_content"
         android:layout_height="130dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="10dp"
         android:background="@drawable/bgwpink"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
